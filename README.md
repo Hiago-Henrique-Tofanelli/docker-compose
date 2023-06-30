@@ -1,3 +1,5 @@
+# * Teoria
+
 # LOCALHOST funciona com as portas definidas antes dos:
 * Exemplo 81:80
 * neste caso para acessar utiliza-se
