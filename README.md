@@ -26,3 +26,11 @@ cd compose-exemplo-main/
 docker compose up -d
 ```
 # docker-compose
+
+# Para conectar com o postgres utilize *localhost* como Host e *5434* como Port
+```
+localhost
+```
+```
+5434
+```
