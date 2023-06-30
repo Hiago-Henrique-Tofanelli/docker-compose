@@ -1,6 +1,6 @@
 # Teoria
 
-## LOCALHOST funciona com as portas definidas antes dos:
+## LOCALHOST funciona com as portas definidas antes dos ' : '
 * Exemplo 81:80
 * neste caso para acessar utiliza-se
   ```
@@ -19,18 +19,10 @@
 git clone https://github.com/Hiago-Henrique-Tofanelli/docker-compose.git
 ```
 
-* MUDAR PARA O DIRETÓRIO CLONADO
+* MUDAR PARA O DIRETÓRIO CLONADO, TENDO BAIXADO O ARQUIVO NO DIRETÍRIO DOWNLOADS
 
 ```
-cd Downloads/
-```
-
-```
-cd avaliacao2/
-```
-
-```
-cd compose-exemplo-main/
+cd Downloads/avaliacao2/compose-exemplo-main/
 ```
 
 * SUBIR ARQUIVOS DO COMPOSE
