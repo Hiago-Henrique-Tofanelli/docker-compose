@@ -1,3 +1,12 @@
+# LOCALHOST funciona com as portas definidas antes dos:
+* Exemplo 81:80
+* neste caso para acessar utiliza-se
+  ```
+  localhost:81
+  ```
+* O localhost é nossa máquina local
+* Rodando pelos ips definidos no docker-compose.yml temos apenas nosso container em execução fora da máquina local
+
 # POR GIT CLONE
 
 * CLONAR REPOSITÓRIO DESEJADO
