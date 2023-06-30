@@ -9,7 +9,15 @@ git clone https://github.com/Hiago-Henrique-Tofanelli/docker-compose.git
 * MUDAR PARA O DIRETÓRIO CLONADO
 
 ```
-cd compose-exemplo
+cd Downloads/
+```
+
+```
+cd avaliacao2/
+```
+
+```
+cd compose-exemplo-main/
 ```
 
 * SUBIR ARQUIVOS DO COMPOSE
